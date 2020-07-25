@@ -1,12 +1,6 @@
 click==7.1.2
 Flask==1.1.2
-geneus==2.2.6
-genlisp==0.4.16
-genmsg==0.5.16
-gennodejs==2.0.1
-genpy==0.6.12
 gunicorn==20.0.4
-itsdangerous==1.1.0
 Jinja2==2.11.2
 MarkupSafe==1.1.1
 pkg-resources==0.0.0
